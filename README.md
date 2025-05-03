@@ -1,4 +1,4 @@
-# Hey I am richuff 😳
+# Hey I am richuff 🤓
 
 ## 🥳 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richuff)](https://github.com/richuff)
